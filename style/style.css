@@ -1,0 +1,41 @@
+canvas {
+  margin: 10%;
+  max-width: 1200px;
+  max-height: 600px;
+}
+
+#error {
+  color: brown;
+}
+
+.formulario {
+  border: 1px solid black;
+  background-color: gray;
+  height: 35vh;
+  width: 70vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  color: white;
+}
+
+.pesos {
+  margin-top: 5%;
+}
+
+.dolar {
+  margin-top: 5%
+}
+
+#selector {
+  margin-top: 4%
+}
+
+#buscar {
+  margin-top: 2%
+}
+
+.titulo {
+  text-align: center;
+}
